@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/random-array-f",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Create an array containing pseudorandom numbers drawn from an F distribution.",
   "license": "Apache-2.0",
   "author": {

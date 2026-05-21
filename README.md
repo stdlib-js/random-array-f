@@ -391,6 +391,7 @@ logEach( '%f', x4 );
 
 ## See Also
 
+-   <span class="package-name">[`@stdlib/random-f`][@stdlib/random/f]</span><span class="delimiter">: </span><span class="description">generate pseudorandom numbers drawn from an F distribution.</span>
 -   <span class="package-name">[`@stdlib/random-base/f`][@stdlib/random/base/f]</span><span class="delimiter">: </span><span class="description">F distributed pseudorandom numbers.</span>
 
 </section>
@@ -476,6 +477,12 @@ Copyright &copy; 2016-2026. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/uint32]: https://github.com/stdlib-js/array-uint32
 
 [@stdlib/array/float64]: https://github.com/stdlib-js/array-float64
+
+<!-- <related-links> -->
+
+[@stdlib/random/f]: https://github.com/stdlib-js/random-f
+
+<!-- </related-links> -->
 
 </section>
 
